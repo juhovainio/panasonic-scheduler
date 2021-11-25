@@ -1,0 +1,19 @@
+{
+  "name": "panasonic-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "@types/serialport": "^8.0.2"
+  },
+  "dependencies": {
+    "node-schedule": "^2.0.0",
+    "serialport": "^9.2.7"
+  }
+}
